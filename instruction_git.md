@@ -25,4 +25,10 @@
 
     git add
 
+# 5) Для создания commit с подписью
+
+*Для создания commit используют команду
+
+    git commit -m "your massage"
+
 
