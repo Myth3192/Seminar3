@@ -70,4 +70,4 @@
 
 *Для слияния веток используется команда:*
 
-    git merge<branch>
+    git merge <branch name>
