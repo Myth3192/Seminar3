@@ -90,3 +90,4 @@
 
     git checkout <branch name>
 
+Создание конфликта между ветками ветка15 и master
