@@ -54,3 +54,8 @@
 
     git diff "first.commit" "seccond.commit"
 
+# 10) Для создания новой ветки
+
+*Для создания новой ветки используется команда*
+
+    git branch <branch name>
